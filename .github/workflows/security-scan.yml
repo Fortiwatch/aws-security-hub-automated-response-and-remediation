@@ -6,6 +6,6 @@ on:
 jobs:
   action:
     name: Security Scan
-    uses: Fortiwatch/advanced-security-compliance/.github/workflows/security-scan.yml@main
+    uses: Fortiwatch/advanced-security-compliance/.github/workflows/security-scan.yml@v1
     #with:
       #language: python, javascript
